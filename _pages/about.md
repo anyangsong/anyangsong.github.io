@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master's student at <a href="https://cmit.fudan.edu.cn/_t4252/main.htm/" style="color: #7289da; text-decoration: none;">CMIT Lab</a> at College of Computer Science and Artificial Intelligence, Fudan University, currently advised by Prof. <a href="https://faculty.fudan.edu.cn/fengrui/zh_CN/index.htm" style="color: #7289da; text-decoration: none;">Rui Feng</a>. I obtained my Bachelor's from School of Software, Dalian University of Technology (DLUT). If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="" style="color: #7289da; text-decoration:none">CV</a>.
+I am a Master's student at <a href="https://cmit.fudan.edu.cn/_t4252/" style="color: #7289da; text-decoration: none;">CMIT Lab</a> at College of Computer Science and Artificial Intelligence, Fudan University, currently advised by Prof. <a href="https://faculty.fudan.edu.cn/fengrui/zh_CN/index.htm" style="color: #7289da; text-decoration: none;">Rui Feng</a>. I obtained my Bachelor's from School of Software, Dalian University of Technology (DLUT). If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="" style="color: #7289da; text-decoration:none">CV</a>.
 
 My primary research interest includes:
 - Machine-Generated-Text (MGT) Detection
