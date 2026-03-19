@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,42 +17,49 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a Master's student at <a href="https://cmit.fudan.edu.cn/_t4252/main.htm/" style="color: #7289da; text-decoration: none;">CMIT Lab</a> at College of Computer Science and Artificial Intelligence, Fudan University, currently advised by Prof. <a href="https://faculty.fudan.edu.cn/fengrui/zh_CN/index.htm" style="color: #7289da; text-decoration: none;">Rui Feng</a>. I obtained my Bachelor's from School of Software, Dalian University of Technology (DLUT). If you are interested in collaborating with me on research projects, please contact me! Here is my <a href="" style="color: #7289da; text-decoration:none">CV</a>.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interest includes:
+- Machine-Generated-Text (MGT) Detection
+- Safety and Alignment in Large Language Models
+- Generalizability and Transfer
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;📝📊 One paper posted on **arXiv** and currently under review at **EMNLP 2026**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+<table style="border-collapse:collapse; border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="width:260px; vertical-align:top; border:none; padding:8px 0;">
+      <img src="/assets/imgs/MAGA_pipeline.png" width="260">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:16px; width:75%;">
+      <strong>MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark</strong><br/>
+      <a href="https://arxiv.org/abs/2601.04633">[paper]</a><br/>
+      <strong>Anyang Song</strong>, Ying Cheng, Yiqian Xu, Rui Feng<br/>
+      <span style="color:purple">UnderReview</span>
+    </td>
+  </tr>
+</table>
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - Present*, M.S. in Computer Science, <a href="https://iipl.fudan.edu.cn/kmtznjs/list.htm/" style="color: #7289da; text-decoration: none;">Fudan University</a>.
+- *2018.09 - 2022.06*, B.S. in Software Engineer, <a href="https://ss.dlut.edu.cn/" style="color: #7289da; text-decoration: none;">DLUT</a>.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎖 Selected Award
+<table style="border-collapse:collapse; border:none; width:100%;">
+  <tr style="border:none;">
+    <td style="width:180px; vertical-align:top; border:none; padding:8px;">
+      <img src="/assets/imgs/ACM-CCPC-2020-qinhuangdao-anyangsong.jpg" width="150">
+    </td>
+    <td style="vertical-align:top; border:none; padding-left:8px; width:55%;">
+      <strong>2020 China Collegiate Programming Contest (ACM-CCPC), Qinhuangdao Site</strong><br/>
+      <strong>Bronze Medal</strong>
+    </td>
+    <td style="vertical-align:top; text-align:right; border:none; width:30%;">
+      <em>DLUT, China</em><br/>
+      Oct 2020
+    </td>
+  </tr>
+</table>
