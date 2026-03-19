@@ -53,7 +53,7 @@ My primary research interest includes:
     <td style="width:180px; vertical-align:top; border:none; padding:8px;">
       <img src="/assets/imgs/ACM-CCPC-2020-qinhuangdao-anyangsong.jpg" width="150">
     </td>
-    <td style="vertical-align:top; border:none; padding-left:8px; width:55%;">
+    <td style="vertical-align:top; border:none; padding-left:16px; width:60%;">
       <strong>2020 China Collegiate Programming Contest (ACM-CCPC), Qinhuangdao Site</strong><br/>
       <strong>Bronze Medal</strong>
     </td>
