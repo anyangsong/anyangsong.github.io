@@ -21,7 +21,7 @@ I am a Master's student at <a href="https://cmit.fudan.edu.cn/_t4252/" style="co
 
 My primary research interest includes:
 - Machine-Generated-Text (MGT) Detection
-- Safety and Alignment in Large Language Models
+- Safety and Alignment in Large Language Models (LLMs)
 
 
 # 🔥 News
