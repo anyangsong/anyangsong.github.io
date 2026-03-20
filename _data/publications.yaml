@@ -1,0 +1,7 @@
+papers:
+  - title: "MAGA-Bench: Machine-Augment-Generated Text via Alignment Detection Benchmark"
+    image: "/assets/imgs/MAGA_pipeline.png"
+    paper_pdf: "https://arxiv.org/pdf/2601.04633"
+    authors: "<b>Anyang Song</b>, Ying Cheng, Yiqian Xu, Rui Feng"
+    venue: "arXiv"
+    selected: y
