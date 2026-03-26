@@ -44,7 +44,7 @@ My primary research interest includes:
 </table>
 # 📖 Educations
 - *2024.09 - Present*, M.S. in Computer Science, <a href="https://cs.fudan.edu.cn/" style="color: #7289da; text-decoration: none;">Fudan University</a>.
-- *2018.09 - 2022.06*, B.S. in Software Engineer, <a href="https://ss.dlut.edu.cn/" style="color: #7289da; text-decoration: none;">DLUT</a>.
+- *2018.09 - 2022.06*, B.E. in Software Engineer, <a href="https://ss.dlut.edu.cn/" style="color: #7289da; text-decoration: none;">DLUT</a>.
 
 # 🎖 Selected Award
 <table style="border-collapse:collapse; border:none; width:100%;">
